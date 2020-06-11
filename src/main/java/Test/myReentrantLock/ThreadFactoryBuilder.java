@@ -1,4 +1,4 @@
-package Test.one;
+package Test.myReentrantLock;
 
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;
